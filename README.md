@@ -14,11 +14,10 @@ It demonstrates profile image styling, social media buttons, and analytics secti
 - Responsive & clean design
 
 ---
-
 ## 📷 Preview
 Here is a preview of the Profile Card design:
 
-![Profile Card Screenshot](Image/Screenshot%202025-08-17%20014021.png)
+<img src="Image/screenshot.png" alt="Profile Card Screenshot" width="300">
 
 ## 🛠️ Technologies Used
 - HTML5
